@@ -1,7 +1,7 @@
 {
   "people": [
     {
-      "_id": "6020d33415a8f26c086e0cbf",
+      "id": "6020d33415a8f26c086e0cbf",
       "index": 0,
       "guid": "714916ee-0d37-4f66-aae2-15dbc6de2ff3",
       "isActive": false,
@@ -41,7 +41,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "6020d3341788174ec0975309",
+      "id": "6020d3341788174ec0975309",
       "index": 1,
       "guid": "3d1dd7c8-3007-4622-8511-71a7bfbaa6b0",
       "isActive": false,
@@ -81,7 +81,7 @@
       "favoriteFruit": "banana"
     },
     {
-      "_id": "6020d334b1f21d425b849920",
+      "id": "6020d334b1f21d425b849920",
       "index": 2,
       "guid": "84f4722f-5079-4ecb-9bd6-0dff95e1a50d",
       "isActive": true,
@@ -121,7 +121,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "6020d334026b08355f9afcb9",
+      "id": "6020d334026b08355f9afcb9",
       "index": 3,
       "guid": "4c07e829-ced1-4d75-8cfd-1f479e05202b",
       "isActive": true,
@@ -161,7 +161,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "6020d33437a825d574b5f0f6",
+      "id": "6020d33437a825d574b5f0f6",
       "index": 4,
       "guid": "0ff7e27c-489b-4d3c-9afd-2dccb2159dba",
       "isActive": true,
@@ -201,7 +201,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "6020d334ff5618f4859a4ca9",
+      "id": "6020d334ff5618f4859a4ca9",
       "index": 5,
       "guid": "813cfa22-e239-4e5d-b5d0-3028bd45493d",
       "isActive": false,
@@ -241,7 +241,7 @@
       "favoriteFruit": "apple"
     },
     {
-      "_id": "6020d3340d78510c7589c7c6",
+      "id": "6020d3340d78510c7589c7c6",
       "index": 6,
       "guid": "35290cc6-723a-42bf-9775-28e63f2ab440",
       "isActive": false,
